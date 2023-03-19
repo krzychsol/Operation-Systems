@@ -1,0 +1,21 @@
+Zestaw został wykonany w 100%
+
+Zad1.
+Wykonanie programu za pomocą komendy make summary
+Wyniki zapisują się do pliku "pomiar_zad_1_{PREFIX}.txt
+Zwykle szybsza jest wersja z użyciem funkcji systemowych
+Działanie programu jest takie samo jak komenda tr
+
+Zad2.
+Wykonanie programu za pomocą komendy make summary
+Wyniki zapisją się do pliku "pomiar_zad2_{PREFIX}.txt
+Możliwość czytania pliku po 1 znaku lub w blokach po 1024 znaki
+
+Zad3.
+Wykonanie za pomocą komendy make all
+Działanie programu analogiczne jak komenda wc --bytes
+
+Zad4.
+Wykonanie za pomocą komendy make all
+Wyniki komendy find nazwa_katalogu | xargs wc --bytes
+pokrywały się z wynikami mojego programu

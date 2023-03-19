@@ -1,0 +1,161 @@
+####################################
+# result_static.txt                #
+####################################
+Program wykonał się w 0.01s.
+Mimo to większość zmierzonych czasów wynosi 0s, ponieważ
+były to na tyle szybkie procedury, że ciężko byłoby oszacować
+dokładnie czas ich wykonania.
+
+REPL Console
+List of commands:
+init [size] - initialize structure with size [size]
+count [path] - count words in file [path]
+show [index] - show result at index [index]
+delete [index] - delete result at index [index]
+exit - close REPL
+help - show commands
+Structure is already allocated with size 4
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 2
+------------------ TIME ---------------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+  19   87 1249 ./small.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+  179   783 11249 ./medium.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+ 1265  5481 78755 ./large.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+There is no block under 2 index
+
+There is no block under given indexStructure destroyed
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+======================================================
+------------- TIME OF WHOLE PROGRAM ---------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+
+####################################
+# result_shared.txt                #
+####################################
+Program wykonał się w 0.01s.
+Mimo to większość zmierzonych czasów wynosi 0s, ponieważ
+były to na tyle szybkie procedury, że ciężko byłoby oszacować
+dokładnie czas ich wykonania.
+
+REPL Console
+List of commands:
+init [size] - initialize structure with size [size]
+count [path] - count words in file [path]
+show [index] - show result at index [index]
+delete [index] - delete result at index [index]
+exit - close REPL
+help - show commands
+Structure is already allocated with size 4
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 1
+------------------ TIME ---------------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 2
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+There is no block under 2 index
+
+There is no block under given indexStructure destroyed
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+======================================================
+------------- TIME OF WHOLE PROGRAM ---------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+
+####################################
+# result_dynamic.txt                #
+####################################
+Program wykonał się w 0.01s.
+Mimo to większość zmierzonych czasów wynosi 0s, ponieważ
+były to na tyle szybkie procedury, że ciężko byłoby oszacować
+dokładnie czas ich wykonania.
+
+REPL Console
+List of commands:
+init [size] - initialize structure with size [size]
+count [path] - count words in file [path]
+show [index] - show result at index [index]
+delete [index] - delete result at index [index]
+exit - close REPL
+help - show commands
+Structure is already allocated with size 4
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 0
+------------------ TIME ---------------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 2
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+  19   87 1249 ./small.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+  179   783 11249 ./medium.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+ 1265  5481 78755 ./large.txt
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+There is no block under 2 index
+
+There is no block under given indexStructure destroyed
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+======================================================
+------------- TIME OF WHOLE PROGRAM ---------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	

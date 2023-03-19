@@ -1,0 +1,180 @@
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make test_dynamic_O3
+make[1]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make dynamic_O3
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+gcc -g -Wall -fPIC -c ../zad1/library.c -O3
+gcc -shared -o liblibrary.so library.o
+gcc -g -Wall ../zad2/main.c -ldl -D DYNAMIC -o main -O3
+# Run with LD_LIBRARY_PATH=. ./main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+./main < test.txt > results_dynamic_O3.txt
+make clean
+make[2]: Wejście do katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+rm -rf *.so *.o *.a /tmp/tmp.txt main.dSYM main
+make[2]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+make[1]: Opuszczenie katalogu '/home/krzysiek/Operation-Systems/SoleckiKrzysztof/cw01/zad3b'
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3b$ cd ..
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01$ cd zad3a
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ make run_all^C
+krzysiek@debian:~/Operation-Systems/SoleckiKrzysztof/cw01/zad3a$ 

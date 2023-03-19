@@ -1,0 +1,43 @@
+REPL Console
+List of commands:
+init [size] - initialize structure with size [size]
+count [path] - count words in file [path]
+show [index] - show result at index [index]
+delete [index] - delete result at index [index]
+exit - close REPL
+help - show commands
+Structure is already allocated with size 4
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 1
+------------------ TIME ---------------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	
+Done. Data saved at index 2
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 0
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+Deleted element at index 1
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+There is no block under 2 index
+
+There is no block under given indexStructure destroyed
+------------------ TIME ---------------------
+Real time: 0.000000	User time: 0.000000	System time: 0.000000	
+======================================================
+------------- TIME OF WHOLE PROGRAM ---------------
+Real time: 0.010000	User time: 0.000000	System time: 0.000000	

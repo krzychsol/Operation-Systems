@@ -1,0 +1,11 @@
+init 4
+count ../zad3a/small.txt
+count ../zad3a/medium.txt
+count ../zad3b/large.txt
+show 0
+show 1
+show 2
+delete 0
+delete 1
+delete 2
+destroy
