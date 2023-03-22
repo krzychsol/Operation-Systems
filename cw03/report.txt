@@ -1,0 +1,15 @@
+Zestaw został wykonany w 100%
+
+#zad1:
+Program działa prawidłowo
+
+#zad2:
+Program działa prawdiłowo.
+Został przetestowany dla podanych przypadków (0 plików, kilka plików i wiele plików).
+W każdym przypadku program działa poprawnie.
+
+#zad3:
+Program działa prawidłowo.
+Został przetestowany dla przypadków szczególnych i zachowuje się prawidłowo.
+W przypadku podania na wejściu ścieżki do pliku zamiast katalogu program wyrzuci
+komunikat o błędzie.
