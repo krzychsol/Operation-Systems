@@ -1,0 +1,4 @@
+
+dx=0.000000001 num_procs=1 result=3.141593 elapsed_time=4.322935
+dx=0.000000001 num_procs=5 result=3.141593 elapsed_time=2.287711
+dx=0.0000000001 num_procs=20 result=3.141592 elapsed_time=22.128762

@@ -1,0 +1,4 @@
+----------RESULTS----------
+dx=0.000000 num_of_programms=1 result=3.141593 elapsed_time=4.366292
+dx=0.000000 num_of_programms=5 result=3.141592 elapsed_time=2.273710
+dx=0.000000 num_of_programms=10 result=3.141594 elapsed_time=22.215653

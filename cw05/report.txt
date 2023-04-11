@@ -1,0 +1,15 @@
+Zestaw ćwiczeń został wykonany w 100%
+
+# zad1
+Program działa poprawnie w obu wariantach
+
+# zad2
+Program poprawnie oblicza wartość całki metodą 
+prostokątów. Wynik w przybliżeniu wynosi pi=3.14
+Raport można utworzyć komendą: make report
+
+# zad3
+Program działa poprawnie ( jak w zad2 ) z tą
+różnicą, że rozdziela się na podprogramy zamiast na
+procesy potomne w celu obliczenia całki.
+Raport można utworzyć komendą: make report

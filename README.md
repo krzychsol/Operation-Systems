@@ -5,5 +5,5 @@
 - [x] Lab 2: System plików, operacje na plikach
 - [x] Lab 3: Tworzenie procesów. Środowisko procesu, sterowanie procesami
 - [x] Lab 4: Sygnały
-- [ ] Lab 5: Potoki
+- [x] Lab 5: Potoki
 - [ ] Lab 6: IPC - kolejki komunikatów
