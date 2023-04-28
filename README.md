@@ -6,4 +6,5 @@
 - [x] Lab 3: Tworzenie procesów. Środowisko procesu, sterowanie procesami
 - [x] Lab 4: Sygnały
 - [x] Lab 5: Potoki
-- [ ] Lab 6: IPC - kolejki komunikatów
+- [x] Lab 6: IPC - kolejki komunikatów
+- [ ] Lab 7: IPC - pamięć wspólna, semafory

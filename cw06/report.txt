@@ -1,0 +1,7 @@
+Zestaw ukończony w 100%
+
+#zad1
+Chat działa zgodnie z założeniami
+
+3zad2
+Chat działa zgodnie z założeniami
