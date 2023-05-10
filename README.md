@@ -7,4 +7,5 @@
 - [x] Lab 4: Sygnały
 - [x] Lab 5: Potoki
 - [x] Lab 6: IPC - kolejki komunikatów
-- [ ] Lab 7: IPC - pamięć wspólna, semafory
+- [x] Lab 7: IPC - pamięć wspólna, semafory
+- [x] Lab 8: Wątki

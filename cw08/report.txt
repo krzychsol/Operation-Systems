@@ -1,0 +1,8 @@
+Zestaw zrobiony w 100%
+
+Zad 1.
+Dodana obługa wielowątkowości.
+Podanie ujemnej ilosci watkow skutkuje jednym watkiem na kazde pole.
+
+Zad 2.
+Modyfikacja zadania 1 taka, że user podaje ilość wątków jako parametr wywołania porgramu.

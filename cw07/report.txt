@@ -1,0 +1,8 @@
+Zestaw wykonany w 100%
+
+Zad 1.
+Oba zadania zawierają od razu wersję POSIX I SYSTEM V
+
+Zad 2.
+Oba zadania zawierają od razu wersję POSIX I SYSTEM V
+
