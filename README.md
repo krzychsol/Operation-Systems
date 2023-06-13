@@ -9,3 +9,5 @@
 - [x] Lab 6: IPC - kolejki komunikatów
 - [x] Lab 7: IPC - pamięć wspólna, semafory
 - [x] Lab 8: Wątki
+- [x] Lab 9: Metody synchronizacji wątków
+- [x] Lab 10: Sockety
